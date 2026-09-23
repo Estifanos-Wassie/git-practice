@@ -12,3 +12,11 @@ What I learned is that old code is valuable because it holds years of bug fixes 
 
 ## comment
 Good point and interesting takeon
+
+## Comment from Kumneger Matewos
+
+I chose this same article for my own README, so it was great to read your take on it. I especially agree with your point that the strange-looking lines in old code are often **hard-won bug fixes**. It changes how you see a messy codebase: instead of something to throw away, it becomes a record of lessons learned from real users.
+
+One thing I would add is that Spolsky's advice fits well with agile development. Refactoring in small, frequent steps, and using version control to keep every change safe and reversible, lets a team improve old code *without* taking the huge risk that Netscape took with a full rewrite.
+
+*— Kumneger Matewos ([@ken11235](https://github.com/ken11235))*
